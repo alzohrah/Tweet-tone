@@ -20,12 +20,11 @@ After completing this project, you will understand how to:
 In order to complete this project, you will need the following prerequisites:
 - [IBM Cloud](https://www.ibm.com/cloud/) account - sign up if you don't have an account yet.
 
-o	A Node-RED installed on Raspberry Pi 
-o	IBM Tone Analyzer service
-o	Twitter API
-o	- [Language Translator](https://github.com/watson-developer-cloud/node-red-labs/blob/master/basic_examples/language_translator/README.md) service (optional if your language not support in Tone Analyzer)
-
-o	ws8211 light (optional)
+- [A Node-RED installed on Raspberry Pi](https://nodered.org/docs/hardware/raspberrypi)
+- [IBM Tone Analyzer service](https://tone-analyzer-demo.ng.bluemix.net/)
+- [Twitter API](https://apps.twitter.com/)
+- [Language Translator](https://github.com/watson-developer-cloud/node-red-labs/blob/master/basic_examples/language_translator/README.md) service (optional if your language not support in Tone Analyzer)
+- ws8211 light (optional)
 
 ## Estimated time
 
