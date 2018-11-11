@@ -46,15 +46,15 @@ Copy the code form the Tweet-tone flow file and import them into Node-RED clipbo
 
 - [Tweet-tone](tweet-tone.json)
 
-![`Translator`](images/2.jpg)
+![`Translator`](images/2.png)
 
 ### Get Twitter API
-![`Translator`](images/3.jpg)
+![`Translator`](images/3.png)
 
 
 Frist of all, you have to get Twitter API to make this application works, so to do that visit this page [Twitter API](https://apps.twitter.com/) or double click on Twitter node then click on edit button and follow the instruction.  
 
-![`Translator`](images/4.jpg)
+![`Translator`](images/4.png)
 
 ### Install IBM Watson nodes and UI Dashboard nodes
 
@@ -65,11 +65,11 @@ In the Node-RED editor, you need to add IBM Watson nodes and UI Dashboard nodes.
 
 2.	From the Manage palette menu, click the Install tab then search for node-red-node-watson then install it.
 
-![`Translator`](images/6.jpg)
+![`Translator`](images/6.png)
 
 3.	Research for node-red-dashboard then install it and close the palette menu.
 
-![`Translator`](images/7.jpg)
+![`Translator`](images/7.png)
 
 
 
@@ -101,17 +101,17 @@ Now neopixel and Twitter node are connected and ready to use, let's start to
 Configure all of IBM services nodes: Tone Analyzer and Language Translator (optional)
 1.	Go to your IBM services in IBM Cloud and copy the Service credentials
 
-![`Translator`](images/8.jpg)
+![`Translator`](images/8.png)
 
 2.	Past the Service credentials inside the node as the following figure then click done.
 
-![`Translator`](images/9.jpg)
+![`Translator`](images/9.png)
 
 ### Deploy
 
 After setup and configure everything, click on Deploy and test the application. Go to UI to see the dashboard by go to; {your IP or localhost}:{port}/ui
 
-![`Translator`](images/10.jpg)
+![`Translator`](images/10.png)
 
 
 ## Summary
