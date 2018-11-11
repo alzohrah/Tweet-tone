@@ -36,7 +36,7 @@ In order to complete this project, you will need the following prerequisites:
 ## Building the Tweet's Tone
 ### Install Node-RED on Raspberry Pi
 
-Check if your Raspberry Pi has the latest Node-RED version installed or if you don't have click here. This tutorial is running on 0.19.2 Node-RED version.
+Check if your Raspberry Pi has the latest Node-RED version installed or if you don't have [click here](https://nodered.org/docs/hardware/raspberrypi). This tutorial is running on 0.19.2 Node-RED version.
 
 ### Create a Node-RED flow
 
