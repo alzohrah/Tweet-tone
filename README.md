@@ -5,6 +5,10 @@
 ## Overview
 Tweet's tone is an application to analyze each tweet sentiment, that has either specific hashtag or twitter user ID, in the real-time. IBM Tone Analyzer service has the ability to analyze the tweet's text that detects Anger, Fear, Joy, Sadness, and Disgust emotion tones which are most commonly used. However, there is a score of each tone inside emotion tones based on the tweet's text. This service is one of other amazing IBM services which can be linked to the Twitter using a Node-RED application. In this project I use Node-RED installed in Raspberry Pi to change the color of RGB light based on the result of top three tone emotions. Furthermore, these tone emotions remind me one of my favorite Disney movie called "Inside Out" which descripted all of five tone emotions inside the human, so I add the movie's characters picture in the UI to describe the tweet's tone emotion. 
 
+
+In this tutorial, I walk you through the steps to create a Node-RED flow on Raspberry Pi and connect Twitter API to feed the tweet to IBM Tone Analyzer and then show the result on UI and RGB light - in under 60 minutes so let's start.
+
+
 ## Learning objectives
 
 After completing this project, you will understand how to:
